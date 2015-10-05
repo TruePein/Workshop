@@ -1,0 +1,35 @@
+Thread 0 created.
+Thread 1 created.
+Thread 2 created.
+Thread 3 created.
+Thread 4 created.
+Thread 5 created.
+Thread 6 created.
+Thread 7 created.
+Thread 8 created.
+Thread 9 created.
+Thread 0 starting.
+Thread 1 starting.
+Thread 2 starting.
+Thread 5 starting.
+Thread 4 starting.
+Thread 6 starting.
+Thread 9 starting.
+Thread 8 starting.
+Thread 3 starting.
+Thread 7 starting.
+Thread 0 exiting.
+Thread 9 exiting.
+Thread 3 exiting.
+Thread 5 exiting.
+Thread 1 exiting.
+Thread 7 exiting.
+Thread 4 exiting.
+Thread 2 exiting.
+Thread 8 exiting.
+Thread 6 exiting.
+All done!
+The shortest path is 120.0 units long.
+It took 95523 miliseconds to find the answer.
+10 thread(s) looked through 866422 nodes to find that answer.
+Path taken: 0 - 3 - 10 - 18 - 16 - 2 - 14 - 5 - 7 - 15 - 17 - 6 - 12 - 11 - 19 - 13 - 1 - 9 - 8 - 4 - 0
